@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shegaw2
+- 👋 Hi, I’m @Shegaw Nigusie 
 - 👀 I’m interested in  programming 
-- 🌱 I’m currently learning  c programming in alx 
-- 💞️ I’m looking to collaborate on given assignment 
+- 🌱 I’m currently learning  c programming in alx  Ethiopia
+- 💞️ I’m looking to collaborate on given assignment  
 - 📫 How to reach me achive the goal of the program
 
 <!---
